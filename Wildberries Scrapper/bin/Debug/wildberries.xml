@@ -1,0 +1,979 @@
+<?xml version="1.0"?>
+<ArrayOfWildBerriesItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WildBerriesItem>
+    <Brand>Xiaomi</Brand>
+    <Name>Mi Robot Vacuum Mop</Name>
+    <Price>17 841 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/11541968/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Polaris</Brand>
+    <Name>Робот-пылесос PVCR 0726W</Name>
+    <Price>13 990 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/6170053/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Xiaomi</Brand>
+    <Name>Робот-пылесос Mi Robot Vacuum-Mop Essential</Name>
+    <Price>12 741 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/14444933/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Polaris</Brand>
+    <Name>Робот-пылесос PVCR0926W</Name>
+    <Price>13 990 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/5163995/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Polaris</Brand>
+    <Name>Робот-пылесос PVCR 0826</Name>
+    <Price>13 990 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/6170054/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>REDMOND</Brand>
+    <Name>Пылесос-робот RV-R150</Name>
+    <Price>10 594 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/12507082/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Xiaomi</Brand>
+    <Name>Робот-пылесос Mi Robot Vacuum-Mop Pro</Name>
+    <Price>27 891 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/11834040/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Polaris</Brand>
+    <Name>Робот-пылесос PVCR 1026 (POLARIS)</Name>
+    <Price>9 499 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/12395032/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Genio</Brand>
+    <Name>Робот-пылесос Deluxe 500</Name>
+    <Price>17 912 ₽</Price>
+    <OGRN>319665800101421</OGRN>
+    <Company>Соловьев Никита Владимирович ИП</Company>
+    <URL>https://www.wildberries.ru/catalog/6790848/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Ecovacs</Brand>
+    <Name>Робот-пылесос DEEBOT OZMO 950</Name>
+    <Price>31 993 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/11633237/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>ELARI</Brand>
+    <Name>Робот-пылесос c системой самоочистки и построением маршрута ELARI SmartBot Ultimate</Name>
+    <Price>31 990 ₽</Price>
+    <OGRN>1087746199793</OGRN>
+    <Company>БИЗНЕС ЮНИТ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/16278484/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>REDMOND</Brand>
+    <Name>Пылесос-робот RV-R250</Name>
+    <Price>8 693 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/7908485/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Genio</Brand>
+    <Name>Робот для мойки окон Windy W200</Name>
+    <Price>17 843 ₽</Price>
+    <OGRN>1026604970370</OGRN>
+    <Company>ВИК-Р ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/12728623/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Xiaomi</Brand>
+    <Name>Робот-пылесос Mi Robot Vacuum-Mop Pro</Name>
+    <Price>27 891 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/11834039/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Polaris</Brand>
+    <Name>Робот-пылесос PVCR 3200 IQ Home Aqua (POLARIS)</Name>
+    <Price>20 019 ₽</Price>
+    <OGRN>1177746272010</OGRN>
+    <Company>СИТИКОНСАЛТ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/19358637/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>iLife</Brand>
+    <Name>Робот-пылесос V4</Name>
+    <Price>9 990 ₽</Price>
+    <OGRN>1167746441851</OGRN>
+    <Company>АВАКС ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/10984272/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Genio</Brand>
+    <Name>Робот-пылесос Deluxe 500</Name>
+    <Price>17 821 ₽</Price>
+    <OGRN>319665800101421</OGRN>
+    <Company>Соловьев Никита Владимирович ИП</Company>
+    <URL>https://www.wildberries.ru/catalog/16696397/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Xiaomi</Brand>
+    <Name>Робот-пылесос Xiaomi Mi Robot Vacuum Cleaner</Name>
+    <Price>19 642 ₽</Price>
+    <OGRN>317774600248106</OGRN>
+    <Company>Колесников Андрей ВладимировичИП</Company>
+    <URL>https://www.wildberries.ru/catalog/16193025/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>ELARI</Brand>
+    <Name>Робот-пылесос для сухой и влажной уборки с голосовым/дистанционным управлением ELARI SmartBot Brush</Name>
+    <Price>9 990 ₽</Price>
+    <OGRN>1087746199793</OGRN>
+    <Company>БИЗНЕС ЮНИТ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/16278479/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Midea</Brand>
+    <Name>Робот-пылесос VCR15</Name>
+    <Price>8 682 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/9000199/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Doni</Brand>
+    <Name>Робот-пылесос V13</Name>
+    <Price>8 544 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/14851691/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>HOBOT</Brand>
+    <Name>Робот мойщик полов Legee-688</Name>
+    <Price>36 990 ₽</Price>
+    <OGRN>320508100090612</OGRN>
+    <Company>Мамаев Павел Валерьевич ИП</Company>
+    <URL>https://www.wildberries.ru/catalog/9561836/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>iPLUS</Brand>
+    <Name>Робот-пылесос iPlus i7</Name>
+    <Price>20 990 ₽</Price>
+    <OGRN>320774600153238</OGRN>
+    <Company>Носков Михаил Сергеевич ИП</Company>
+    <URL>https://www.wildberries.ru/catalog/13100246/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Kitfort</Brand>
+    <Name>Робот-пылесос КТ-563</Name>
+    <Price>9 872 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/13814215/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>HOBOT</Brand>
+    <Name>Робот мойщик окон Hobot-388</Name>
+    <Price>28 990 ₽</Price>
+    <OGRN>320508100090612</OGRN>
+    <Company>Мамаев Павел Валерьевич ИП</Company>
+    <URL>https://www.wildberries.ru/catalog/12726065/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Weissgauff</Brand>
+    <Name>Робот-пылесос</Name>
+    <Price>22 345 ₽</Price>
+    <OGRN>1177746995502</OGRN>
+    <Company>ГАУФ РУС ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/20825346/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Tefal</Brand>
+    <Name>Робот-пылесос Tefal X-plorer Serie 40 RG7275WH</Name>
+    <Price>17 010 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/12997021/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Xiaowa</Brand>
+    <Name>Робот-пылесос Xiaomi Xiaowa Robot Vacuum Cleaner E202-00 (EU)</Name>
+    <Price>17 975 ₽</Price>
+    <OGRN>1134401002669</OGRN>
+    <Company>НОВЫЕ ТЕХНОЛОГИИ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/15671288/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Midea</Brand>
+    <Name>Робот-пылесос Midea VCR09B</Name>
+    <Price>11 672 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/18211581/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Linnberg</Brand>
+    <Name>Linnberg Aqua</Name>
+    <Price>16 422 ₽</Price>
+    <OGRN>1127746167757</OGRN>
+    <Company>ПЕТВЕС-ТРЭЙД ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/11698373/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Kitfort</Brand>
+    <Name>Робот-пылесос КТ-552 Magellan</Name>
+    <Price>14 902 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/11864186/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>MIJIA</Brand>
+    <Name>Робот-пылесос Xiaomi Mijia Sweeping Robot Vacuum Cleaner 1S (CN) - White</Name>
+    <Price>26 907 ₽</Price>
+    <OGRN>1197847145231</OGRN>
+    <Company>ГЛОБАЛТРЕЙД ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/15309908/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Midea</Brand>
+    <Name>Робот-пылесос VCR16</Name>
+    <Price>8 682 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/9000200/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>iRobot</Brand>
+    <Name>Roomba 698</Name>
+    <Price>16 826 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/14425133/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Mamibot</Brand>
+    <Name>Робот мойщик окон Mamibot W-T Black</Name>
+    <Price>13 863 ₽</Price>
+    <OGRN>1207700227570</OGRN>
+    <Company>ОРИОН ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/16582048/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>iLife</Brand>
+    <Name>Робот-пылесос</Name>
+    <Price>8 920 ₽</Price>
+    <OGRN>1207700367390</OGRN>
+    <Company>МАКРОТРАНС ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/18991032/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Genio</Brand>
+    <Name>Робот-пылесос Deluxe 480</Name>
+    <Price>14 231 ₽</Price>
+    <OGRN>319665800101421</OGRN>
+    <Company>Соловьев Никита Владимирович ИП</Company>
+    <URL>https://www.wildberries.ru/catalog/12958119/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>ELARI</Brand>
+    <Name>Робот-пылесос для сухой и влажной уборки с голосовым/дистанционным управлением ELARI SmartBot Brush</Name>
+    <Price>9 990 ₽</Price>
+    <OGRN>1087746199793</OGRN>
+    <Company>БИЗНЕС ЮНИТ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/16278481/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>360.</Brand>
+    <Name>Робот пылесос C50 сухая и влажная уборка 2600Па АРР управление</Name>
+    <Price>11 313 ₽</Price>
+    <OGRN>5157746108625</OGRN>
+    <Company>РООБО ТЕХНОЛОГИЯ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/14664259/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Samsung</Brand>
+    <Name>Пылесос-робот Samsung VR05R503PWG/EV</Name>
+    <Price>12 593 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/16313821/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>ELARI</Brand>
+    <Name>Робот-пылесос для сухой и влажной уборки с голосовым/дистанционным управлением ELARI SmartBot Lite</Name>
+    <Price>7 990 ₽</Price>
+    <OGRN>1087746199793</OGRN>
+    <Company>БИЗНЕС ЮНИТ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/16278482/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>iRobot</Brand>
+    <Name>Roomba 976</Name>
+    <Price>29 759 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/14425134/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Tefal</Brand>
+    <Name>Робот-пылесос Tefal X-plorer Serie 40 RG7267WH</Name>
+    <Price>17 010 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/12997020/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>BIST</Brand>
+    <Name>Робот-мойщик окон BIST Win A100</Name>
+    <Price>29 910 ₽</Price>
+    <OGRN>1167847279291</OGRN>
+    <Company>УМНАЯ ТЕХНИКА ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/7587314/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Polaris</Brand>
+    <Name>Робот-пылесос PVCR 3000 Cyclonic PRO (POLARIS)</Name>
+    <Price>16 954 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/12633193/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>ELARI</Brand>
+    <Name>Робот-пылесос для сухой и влажной уборки с голосовым/дистанционным управлением ELARI SmartBot Brush</Name>
+    <Price>9 990 ₽</Price>
+    <OGRN>1087746199793</OGRN>
+    <Company>БИЗНЕС ЮНИТ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/16278480/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>HOBOT</Brand>
+    <Name>Робот для мойки окон</Name>
+    <Price>24 990 ₽</Price>
+    <OGRN>320508100090612</OGRN>
+    <Company>Мамаев Павел Валерьевич ИП</Company>
+    <URL>https://www.wildberries.ru/catalog/5045578/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Weissgauff</Brand>
+    <Name>Робот-пылесос Robowash Vision</Name>
+    <Price>17 225 ₽</Price>
+    <OGRN>1177746995502</OGRN>
+    <Company>ГАУФ РУС ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/9561643/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Kitfort</Brand>
+    <Name>Робот-пылесос с УФ лампой КТ-553</Name>
+    <Price>14 951 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/11864187/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Ecovacs</Brand>
+    <Name>Робот-пылесос DEEBOT OZMO Slim 10 (DK3G)</Name>
+    <Price>14 799 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/8687329/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>MIJIA</Brand>
+    <Name>Робот-пылесос Xiaomi Mijia G1 Sweeping Vacuum Cleaner CN арт.MJSTG1</Name>
+    <Price>21 500 ₽</Price>
+    <OGRN>318440100023652</OGRN>
+    <Company>Черняновский Михаил Викторович</Company>
+    <URL>https://www.wildberries.ru/catalog/19655063/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Doni</Brand>
+    <Name>Робот-пылесос LDS901Z</Name>
+    <Price>14 494 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/14851690/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Xiaomi</Brand>
+    <Name>Робот-пылесос Dreame D9 Robot Vacuum</Name>
+    <Price>30 990 ₽</Price>
+    <OGRN>316505300055188</OGRN>
+    <Company>Мормиль Ирина Витальевна ИП</Company>
+    <URL>https://www.wildberries.ru/catalog/18004016/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Cecotec</Brand>
+    <Name>Робот-пылесос Conga 1090 Connected 05410</Name>
+    <Price>13 323 ₽</Price>
+    <OGRN>1167746441851</OGRN>
+    <Company>АВАКС ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/14494655/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>GARLYN</Brand>
+    <Name>Робот-пылесос GARLYN SR-600</Name>
+    <Price>34 900 ₽</Price>
+    <OGRN>1167847279291</OGRN>
+    <Company>УМНАЯ ТЕХНИКА ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/16840746/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Ecovacs</Brand>
+    <Name>Робот мойщик окон WINBOT X</Name>
+    <Price>21 194 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/8687330/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Kitfort</Brand>
+    <Name>Робот-пылесос КТ-519</Name>
+    <Price>14 990 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/2833086/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>iBoto</Brand>
+    <Name>Робот-пылесос Smart V720GW Aqua</Name>
+    <Price>12 474 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/10404827/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Kitfort</Brand>
+    <Name>Робот-пылесос КТ-552 Magellan</Name>
+    <Price>17 631 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/11864185/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>ELARI</Brand>
+    <Name>Робот-пылесос для сухой и влажной уборки с голосовым/дистанционным управлением ELARI SmartBot Lite</Name>
+    <Price>7 990 ₽</Price>
+    <OGRN>1087746199793</OGRN>
+    <Company>БИЗНЕС ЮНИТ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/16278483/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Xiaowa</Brand>
+    <Name>Робот-пылесос Xiaomi Xiaowa Robot Vacuum Cleaner E202-00 (EU)</Name>
+    <Price>19 890 ₽</Price>
+    <OGRN>318440100023652</OGRN>
+    <Company>Черняновский Михаил Викторович</Company>
+    <URL>https://www.wildberries.ru/catalog/18729098/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>HOBOT</Brand>
+    <Name>Hobot Legee-669 Робот мойщик полов</Name>
+    <Price>29 990 ₽</Price>
+    <OGRN>320508100090612</OGRN>
+    <Company>Мамаев Павел Валерьевич ИП</Company>
+    <URL>https://www.wildberries.ru/catalog/8381543/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>HOBOT</Brand>
+    <Name>Робот-мойщик окон 298</Name>
+    <Price>29 990 ₽</Price>
+    <OGRN>320508100090612</OGRN>
+    <Company>Мамаев Павел Валерьевич ИП</Company>
+    <URL>https://www.wildberries.ru/catalog/8381542/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>MOJO</Brand>
+    <Name>Робот-пылесос MOJO MJ-R420</Name>
+    <Price>12 756 ₽</Price>
+    <OGRN>1103022000840</OGRN>
+    <Company>АСТМАРКЕТ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/15348926/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>WERK</Brand>
+    <Name>Робот Пылесос для сухой и влажной уборки с функцией ультрафиолетовой дезинфекции</Name>
+    <Price>7 833 ₽</Price>
+    <OGRN>1076652001689</OGRN>
+    <Company>АГРО ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/16708156/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Kitfort</Brand>
+    <Name>Робот-пылесос КТ-566</Name>
+    <Price>28 490 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/16073603/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Kitfort</Brand>
+    <Name>Робот-пылесос КТ-572</Name>
+    <Price>22 690 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/18042912/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>WERK</Brand>
+    <Name>Робот Пылесос для сухой и влажной уборки с функцией ультрафиолетовой дезинфекции</Name>
+    <Price>7 833 ₽</Price>
+    <OGRN>1076652001689</OGRN>
+    <Company>АГРО ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/16708157/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Kitfort</Brand>
+    <Name>Робот-пылесос КТ-569</Name>
+    <Price>12 490 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/17917633/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>MIJIA</Brand>
+    <Name>Робот пылесос MiJia Vaccum Cleaner 2 mopping 2 in 1 (сухая+влажная) LDS NEW</Name>
+    <Price>24 780 ₽</Price>
+    <OGRN>1134401002669</OGRN>
+    <Company>НОВЫЕ ТЕХНОЛОГИИ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/15764621/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Rekam</Brand>
+    <Name>Робот-пылесос Rekam RVC-2300</Name>
+    <Price>9 841 ₽</Price>
+    <OGRN>1087746629376</OGRN>
+    <Company>РОЯЛ ГРУПП ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/13977675/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Kitfort</Brand>
+    <Name>Робот-пылесос вакуумный КТ-545 Krusenstern</Name>
+    <Price>22 390 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/9496825/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Tefal</Brand>
+    <Name>Робот-пылесос Tefal X-plorer Serie 20 RG6875</Name>
+    <Price>14 994 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/9689640/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Ecovacs</Brand>
+    <Name>Робот-пылесос DEEBOT 601</Name>
+    <Price>12 779 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/8732548/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Kitfort</Brand>
+    <Name>Робот-пылесос КТ-570</Name>
+    <Price>8 992 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/16178458/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Kitfort</Brand>
+    <Name>Робот-пылесос КТ-562</Name>
+    <Price>6 679 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/13814214/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Kitfort</Brand>
+    <Name>Робот-пылесос КТ-568</Name>
+    <Price>11 990 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/17917632/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>GUTREND</Brand>
+    <Name>Робот-пылесос Smart 300</Name>
+    <Price>25 641 ₽</Price>
+    <OGRN>1157847201050</OGRN>
+    <Company>СУПЕРМЕН БТ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/5128920/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Kitfort</Brand>
+    <Name>Робот-пылесос КТ-571</Name>
+    <Price>12 990 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/18042911/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Kitfort</Brand>
+    <Name>Робот-пылесос КТ-567</Name>
+    <Price>6 990 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/17873088/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Dreame</Brand>
+    <Name>Робот-пылесос</Name>
+    <Price>27 590 ₽</Price>
+    <OGRN>1137746440226</OGRN>
+    <Company>ООО КОМЕРС</Company>
+    <URL>https://www.wildberries.ru/catalog/20995636/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Xiaomi</Brand>
+    <Name>Робот-пылесос Xiaomi Mi Robot Vacuum Cleaner 1S White (CN)</Name>
+    <Price>24 690 ₽</Price>
+    <OGRN>316505300055188</OGRN>
+    <Company>Мормиль Ирина Витальевна ИП</Company>
+    <URL>https://www.wildberries.ru/catalog/18004013/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Polaris</Brand>
+    <Name>Робот-пылесос PVCR 1015 Golden rush (POLARIS)</Name>
+    <Price>5 471 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/12491285/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>LIECTROUX</Brand>
+    <Name>Робот мойщик для мытья окон . Робот для очистки стекол Liectroux X6</Name>
+    <Price>22 954 ₽</Price>
+    <OGRN>304770001291113</OGRN>
+    <Company>Новиков Сергей Геннадьевич ИП</Company>
+    <URL>https://www.wildberries.ru/catalog/14795627/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>GUTREND</Brand>
+    <Name>Робот-пылесос Gutrend Fusion 150 (черный/желтый)</Name>
+    <Price>17 999 ₽</Price>
+    <OGRN>1157847201050</OGRN>
+    <Company>СУПЕРМЕН БТ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/7117409/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>MIJIA</Brand>
+    <Name>Робот пылесос MiJia Vaccum Cleaner 2 mopping 2 in 1 (сухая+влажная) LDS NEW</Name>
+    <Price>25 566 ₽</Price>
+    <OGRN>318440100023652</OGRN>
+    <Company>Черняновский Михаил Викторович</Company>
+    <URL>https://www.wildberries.ru/catalog/18729100/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Panda</Brand>
+    <Name>PANDA I7 GOLD</Name>
+    <Price>15 594 ₽</Price>
+    <OGRN>1187746605859</OGRN>
+    <Company>ПРОЭКСПЕРТ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/16484975/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Xiaomi</Brand>
+    <Name>Робот-пылесос Xiaomi Mijia LDS Vacuum Cleaner White STYTJ02YM</Name>
+    <Price>23 990 ₽</Price>
+    <OGRN>316505300055188</OGRN>
+    <Company>Мормиль Ирина Витальевна ИП</Company>
+    <URL>https://www.wildberries.ru/catalog/18004018/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Samsung</Brand>
+    <Name>Пылесос-робот VR05R5050WG/EV</Name>
+    <Price>24 990 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/12663413/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>HOBOT</Brand>
+    <Name>Робот для мойки окон Hobot-268</Name>
+    <Price>22 990 ₽</Price>
+    <OGRN>320508100090612</OGRN>
+    <Company>Мамаев Павел Валерьевич ИП</Company>
+    <URL>https://www.wildberries.ru/catalog/3356464/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Doni</Brand>
+    <Name>Робот-пылесос V16</Name>
+    <Price>9 274 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/14851692/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Xiaomi</Brand>
+    <Name>Робот-пылесос Xiaomi Mijia Sweeping Robot 1C</Name>
+    <Price>19 690 ₽</Price>
+    <OGRN>316505300055188</OGRN>
+    <Company>Мормиль Ирина Витальевна ИП</Company>
+    <URL>https://www.wildberries.ru/catalog/18004014/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Zeegma</Brand>
+    <Name>Робот пылесос Zeegma ZE-Zonder Robo Basic</Name>
+    <Price>11 664 ₽</Price>
+    <OGRN>1155018004877</OGRN>
+    <Company>ГАРМОНИЯ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/11997545/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Samsung</Brand>
+    <Name>Робот-пылесос VR10M7010UW</Name>
+    <Price>24 891 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/4563943/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Ecovacs</Brand>
+    <Name>Робот-пылесос DEEBOT 710</Name>
+    <Price>18 089 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/8732550/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Rekam</Brand>
+    <Name>Робот-пылесос Rekam RVC-1670G</Name>
+    <Price>6 990 ₽</Price>
+    <OGRN>1087746629376</OGRN>
+    <Company>РОЯЛ ГРУПП ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/8770215/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Midea</Brand>
+    <Name>Робот-пылесос VCR12</Name>
+    <Price>5 990 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/9000198/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Polaris</Brand>
+    <Name>Робот-пылесос PVCR 0930 SmartGo</Name>
+    <Price>23 174 ₽</Price>
+    <OGRN>1207700169687</OGRN>
+    <Company>КОНТИНЕНТ ООО (Polaris)</Company>
+    <URL>https://www.wildberries.ru/catalog/10557310/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Zeegma</Brand>
+    <Name>Робот-пылесос с влажной уборкой  ZE-Zonder Robo</Name>
+    <Price>14 112 ₽</Price>
+    <OGRN>1155018004877</OGRN>
+    <Company>ГАРМОНИЯ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/11997544/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Reyer</Brand>
+    <Name>Робот-пылесос R3</Name>
+    <Price>19 943 ₽</Price>
+    <OGRN>1197746461725</OGRN>
+    <Company>ПАУЭР РУ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/13024654/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Reyer</Brand>
+    <Name>Робот-пылесос R5</Name>
+    <Price>25 153 ₽</Price>
+    <OGRN>1197746461725</OGRN>
+    <Company>ПАУЭР РУ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/13566349/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Mamibot</Brand>
+    <Name>Робот - мойщик окон Mamibot W120</Name>
+    <Price>18 490 ₽</Price>
+    <OGRN>319774600134960</OGRN>
+    <Company>Максимова Мария Александровна ИП</Company>
+    <URL>https://www.wildberries.ru/catalog/14298361/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>lenovo</Brand>
+    <Name>Робот пылесос с влажной уборкой Lenovo E1 (D450)</Name>
+    <Price>20 604 ₽</Price>
+    <OGRN>1177746303327</OGRN>
+    <Company>АЛАЙВ ТРЕЙД ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/14824334/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>DOFFLER</Brand>
+    <Name>Робот-пылесос DOFFLER VCR 737 NG</Name>
+    <Price>10 789 ₽</Price>
+    <OGRN>1097453006837</OGRN>
+    <Company>ЛЕРАН ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/14952428/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Kitfort</Brand>
+    <Name>Робот-пылесос КТ-565</Name>
+    <Price>26 590 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/16073602/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Panda</Brand>
+    <Name>PANDA I7 RED</Name>
+    <Price>15 594 ₽</Price>
+    <OGRN>1187746605859</OGRN>
+    <Company>ПРОЭКСПЕРТ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/16484976/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Panda</Brand>
+    <Name>PANDA X900RED</Name>
+    <Price>13 120 ₽</Price>
+    <OGRN>1187746605859</OGRN>
+    <Company>ПРОЭКСПЕРТ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/16484977/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Bort</Brand>
+    <Name>Робот-пылесос BSS-Vision700W</Name>
+    <Price>18 701 ₽</Price>
+    <OGRN>1186313073132</OGRN>
+    <Company>ЭКСТЕГО ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/16677312/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Xiaomi</Brand>
+    <Name>Робот-пылесос Xiaomi Trouver Robot Vacuum-Mop Finder RLS3 EU</Name>
+    <Price>35 440 ₽</Price>
+    <OGRN>1134401002669</OGRN>
+    <Company>НОВЫЕ ТЕХНОЛОГИИ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/18815335/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>MIJIA</Brand>
+    <Name>Робот-пылесос Xiaomi Mijia G1 Sweeping Vacuum Cleaner CN арт.MJSTG1</Name>
+    <Price>14 980 ₽</Price>
+    <OGRN>1134401002669</OGRN>
+    <Company>НОВЫЕ ТЕХНОЛОГИИ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/19655274/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Xiaomi</Brand>
+    <Name>Моющий робот-пылесос Xiaomi Dreame D9 Robot Vacuum RLS5-WH0 (Европейская версия)</Name>
+    <Price>33 240 ₽</Price>
+    <OGRN>317774600230166</OGRN>
+    <Company>Джимшелия Кахабер</Company>
+    <URL>https://www.wildberries.ru/catalog/21347751/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Scarlett</Brand>
+    <Name>Робот-пылесос SC-VC80R12</Name>
+    <Price>7 990 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/21528932/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Scarlett</Brand>
+    <Name>Робот-пылесос SC-VC80R14</Name>
+    <Price>7 990 ₽</Price>
+    <OGRN>1067746062449</OGRN>
+    <Company>ВАЙЛДБЕРРИЗ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/21528933/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>GEEK LIFE</Brand>
+    <Name>Робот-пылесос</Name>
+    <Price>12 972 ₽</Price>
+    <OGRN>1205000033204</OGRN>
+    <Company>РАССВЕТ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/22655179/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>GEEK LIFE</Brand>
+    <Name>Робот-пылесос</Name>
+    <Price>12 972 ₽</Price>
+    <OGRN>1205000033204</OGRN>
+    <Company>РАССВЕТ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/22655180/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>GEEK LIFE</Brand>
+    <Name>Робот-пылесос</Name>
+    <Price>10 080 ₽</Price>
+    <OGRN>1205000033204</OGRN>
+    <Company>РАССВЕТ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/22655371/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>GEEK LIFE</Brand>
+    <Name>Робот-пылесос</Name>
+    <Price>10 080 ₽</Price>
+    <OGRN>1205000033204</OGRN>
+    <Company>РАССВЕТ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/22655571/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Xiaomi</Brand>
+    <Name>Робот-пылесос</Name>
+    <Price>22 990 ₽</Price>
+    <OGRN>317774600230166</OGRN>
+    <Company>Джимшелия Кахабер</Company>
+    <URL>https://www.wildberries.ru/catalog/22997131/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Polaris</Brand>
+    <Name>Робот-пылесос PVCR 1012U</Name>
+    <Price>7 402 ₽</Price>
+    <OGRN>1177746272010</OGRN>
+    <Company>СИТИКОНСАЛТ ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/4984403/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>LIECTROUX</Brand>
+    <Name>Робот-мойщик окон Liectroux WS-1080</Name>
+    <Price>13 520 ₽</Price>
+    <OGRN>319774600567599</OGRN>
+    <Company>Гулевич Кристина Александровна ИП</Company>
+    <URL>https://www.wildberries.ru/catalog/14856796/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>MIJIA</Brand>
+    <Name>Робот-пылесос Xiaomi Mijia Robot Vacuum Cleaner LDS Version (STYJ02YM) White</Name>
+    <Price>23 679 ₽</Price>
+    <OGRN>1197847145231</OGRN>
+    <Company>ГЛОБАЛТРЕЙД ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/15309911/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+  <WildBerriesItem>
+    <Brand>Xiaomi</Brand>
+    <Name>Робот-пылесос Xiaomi Mijia G1 Sweeping Vacuum Cleaner</Name>
+    <Price>14 030 ₽</Price>
+    <OGRN>1197847145231</OGRN>
+    <Company>ГЛОБАЛТРЕЙД ООО</Company>
+    <URL>https://www.wildberries.ru/catalog/16390529/detail.aspx?targetUrl=GP</URL>
+  </WildBerriesItem>
+</ArrayOfWildBerriesItem>
