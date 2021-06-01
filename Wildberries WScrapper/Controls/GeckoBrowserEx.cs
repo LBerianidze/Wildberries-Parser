@@ -36,8 +36,10 @@ namespace Wildberries_WScrapper.Controls
 		}
 
 		private int requestsCount = 0;
+		public string LastUrl;
 		public new void Navigate(string url)
 		{
+			LastUrl = url;
 			base.Navigate(url);
 			if (requestsCount++ > 100)
 			{

@@ -50,7 +50,30 @@ namespace Wildberries_WScrapper.Forms
 
 		private int _count;
 		private GeckoBrowserEx _geckoWebBrowser;
-		private bool _loaded;
+		private bool _loadedLocal;
+		private int loadedCounter;
+
+		private bool Loaded
+		{
+			get
+			{
+				loadedCounter++;
+				if (loadedCounter > 50)
+				{
+					string lastUrl = _geckoWebBrowser.LastUrl;
+					InitBrowser();
+					_geckoWebBrowser.Navigate(lastUrl);
+					loadedCounter = 0;
+				}
+				return _loadedLocal;
+			}
+			set
+			{
+				loadedCounter = 0;
+				_loadedLocal = value;
+			}
+
+		}
 		private bool _settingsAccepted;
 		private TwoCaptcha _solver;
 		private int _successCount;
@@ -121,10 +144,10 @@ namespace Wildberries_WScrapper.Forms
 					_geckoWebBrowser.Navigate(startUrl + "?page=" + pageIndex++);
 				}
 
-				_loaded = false;
-				while (!_loaded)
+				Loaded = false;
+				while (!Loaded)
 				{
-					await Task.Delay(300);
+					await Task.Delay(500);
 				}
 
 				var outerHtml = (_geckoWebBrowser.DomDocument.DocumentElement as GeckoHtmlElement)?.OuterHtml;
@@ -173,9 +196,9 @@ namespace Wildberries_WScrapper.Forms
 				wild.Category = category.Name;
 				try
 				{
-					_loaded = false;
+					Loaded = false;
 					_geckoWebBrowser.Navigate(item);
-					while (!_loaded)
+					while (!Loaded)
 					{
 						await Task.Delay(500);
 					}
@@ -437,9 +460,9 @@ namespace Wildberries_WScrapper.Forms
 		private async void _geckoWebBrowser_RequestLimitReached(string obj)
 		{
 			InitBrowser();
-			_loaded = false;
+			Loaded = false;
 			_geckoWebBrowser.Navigate(obj);
-			while (!_loaded)
+			while (!Loaded)
 			{
 				await Task.Delay(500);
 			}
@@ -447,7 +470,7 @@ namespace Wildberries_WScrapper.Forms
 
 		private void PageLoaded()
 		{
-			_loaded = true;
+			Loaded = true;
 		}
 
 		private async void startYandexParsing_Click(object sender, EventArgs eee)
@@ -455,7 +478,7 @@ namespace Wildberries_WScrapper.Forms
 			var results = _yandexParsingCategories.SelectMany(t => t.Items).GroupBy(e => e.Brand).Select((t, y) => new { Brand = t.Key, Items = t.ToList() });
 			var searchPattern = textBox1.Text;
 			_geckoWebBrowser.Navigate("https://yandex.ru/search");
-			while (!_loaded)
+			while (!Loaded)
 			{
 				await Task.Delay(500);
 			}
@@ -481,7 +504,7 @@ namespace Wildberries_WScrapper.Forms
 						await Task.Delay(500);
 					}
 
-					while (!_loaded)
+					while (!Loaded)
 					{
 						await Task.Delay(500);
 					}
@@ -490,15 +513,15 @@ namespace Wildberries_WScrapper.Forms
 					(eval[0] as GeckoInputElement).Value = searchPattern.Replace("{0}", group.Brand).Replace("{1}", group.Items.FirstOrDefault().Category);
 
 					eval = _geckoWebBrowser.Document.EvaluateXPath("/html/body/header/div/div/div[3]/form/div[2]/button").GetNodes().ToList();
-					_loaded = false;
+					Loaded = false;
 					(eval[0] as GeckoHtmlElement).Click();
 					var tcount = 0;
-					while (!_loaded)
+					while (!Loaded)
 					{
 						await Task.Delay(500);
 						if (tcount++ == 10)
 						{
-							_loaded = true;
+							Loaded = true;
 							break;
 						}
 					}
@@ -508,12 +531,12 @@ namespace Wildberries_WScrapper.Forms
 					{
 						await Task.Delay(500);
 						hascaptcha = true;
-						_loaded = false;
+						Loaded = false;
 					}
 
 					if (hascaptcha)
 					{
-						while (!_loaded)
+						while (!Loaded)
 						{
 							await Task.Delay(500);
 						}
@@ -617,10 +640,10 @@ namespace Wildberries_WScrapper.Forms
 				if (count % 50 == 0)
 				{
 					InitBrowser();
-					_loaded = false;
+					Loaded = false;
 					_geckoWebBrowser.Navigate("https://yandex.ru/search");
 
-					while (!_loaded)
+					while (!Loaded)
 					{
 						await Task.Delay(500);
 					}
@@ -978,11 +1001,11 @@ namespace Wildberries_WScrapper.Forms
 				HtmlDocument doc;
 				string html;
 
-				_loaded = false;
+				Loaded = false;
 				_geckoWebBrowser.Navigate(category.URL + $"&page={page++}");
-				while (!_loaded)
+				while (!Loaded)
 				{
-					await Task.Delay(50);
+					await Task.Delay(500);
 				}
 
 				html = (_geckoWebBrowser.DomDocument.DocumentElement as GeckoHtmlElement)?.OuterHtml;
@@ -994,7 +1017,7 @@ namespace Wildberries_WScrapper.Forms
 					await Task.Delay(500);
 				}
 
-				while (!_loaded)
+				while (!Loaded)
 				{
 					await Task.Delay(500);
 				}
@@ -1004,7 +1027,7 @@ namespace Wildberries_WScrapper.Forms
 				doc = new HtmlDocument();
 				doc.LoadHtml(html);
 
-				while (!_loaded)
+				while (!Loaded)
 				{
 					await Task.Delay(50);
 				}
@@ -1203,7 +1226,7 @@ namespace Wildberries_WScrapper.Forms
 		}
 		private async Task ParseListorg(YandexMarketCompany cmp)
 		{
-			_loaded = false;
+			Loaded = false;
 			if (cmp.OGRN.Length == 13)
 			{
 				_geckoWebBrowser.Navigate($"https://list-org.com/search?type=ogrn&val={cmp.OGRN}");
@@ -1213,9 +1236,9 @@ namespace Wildberries_WScrapper.Forms
 				_geckoWebBrowser.Navigate($"https://list-org.com/search?type=fio&val={cmp.OGRN}");
 			}
 
-			while (!_loaded)
+			while (!Loaded)
 			{
-				await Task.Delay(50);
+				await Task.Delay(500);
 			}
 
 			bool notified = false;
@@ -1241,19 +1264,19 @@ namespace Wildberries_WScrapper.Forms
 				}
 				finally
 				{
-					_loaded = false;
+					Loaded = false;
 				}
 
-				if (!notified)
+				if (!notified && !anticaptcha_isactive)
 				{
 					PlaySound();
 					notified = true;
 				}
 
-				await Task.Delay(50);
+				await Task.Delay(500);
 			}
 
-			while (!_loaded)
+			while (!Loaded)
 			{
 				await Task.Delay(500);
 			}
@@ -1262,7 +1285,7 @@ namespace Wildberries_WScrapper.Forms
 			var orgList = doc1.GetElementByTagAndAttributeEquality("div", "class", "org_list");
 			if (orgList != null && orgList.ChildNodes.Count != 0)
 			{
-				_loaded = false;
+				Loaded = false;
 				if (cmp.OGRN.Length == 13)
 				{
 					cmp.ListorgURL = $"https://list-org.com{orgList.ChildNodes[0].ChildNodes[0].ChildNodes[1].Attributes[0].Value}";
@@ -1273,9 +1296,9 @@ namespace Wildberries_WScrapper.Forms
 				}
 
 				_geckoWebBrowser.Navigate(cmp.ListorgURL);
-				while (!_loaded)
+				while (!Loaded)
 				{
-					await Task.Delay(50);
+					await Task.Delay(500);
 				}
 
 				notified = false;
@@ -1300,9 +1323,9 @@ namespace Wildberries_WScrapper.Forms
 					}
 					finally
 					{
-						_loaded = false;
+						Loaded = false;
 					}
-					if (!notified)
+					if (!notified && !anticaptcha_isactive)
 					{
 						PlaySound();
 						notified = true;
@@ -1310,7 +1333,7 @@ namespace Wildberries_WScrapper.Forms
 					await Task.Delay(500);
 				}
 
-				while (!_loaded)
+				while (!Loaded)
 				{
 					await Task.Delay(500);
 				}
@@ -1376,12 +1399,12 @@ namespace Wildberries_WScrapper.Forms
 					return;
 				}
 
-				_loaded = false;
+				Loaded = false;
 				if (false)
 				{
 					_geckoWebBrowser.Navigate($"https://a.pr-cy.ru/{cmp.Websites[0].URL}/");
 					var i = 0;
-					while (!_loaded)
+					while (!Loaded)
 					{
 						await Task.Delay(500).ConfigureAwait(false);
 						if (i++ > 3)
@@ -1412,11 +1435,13 @@ namespace Wildberries_WScrapper.Forms
 			}
 		}
 
+		private bool anticaptcha_isactive;
 		private async void startYandexMarketParsing_Click(object sender, EventArgs e)
 		{
 
 			try
 			{
+				anticaptcha_isactive = false;
 				var balance = await _solver.Balance();
 				if (balance == 0)
 				{
@@ -1425,6 +1450,10 @@ namespace Wildberries_WScrapper.Forms
 					{
 						return;
 					}
+				}
+				else
+				{
+					anticaptcha_isactive = true;
 				}
 			}
 			catch (Exception)
@@ -1461,7 +1490,7 @@ namespace Wildberries_WScrapper.Forms
 					await ParsePartOfWebsites((new List<Website>() { queueItem.Website }).GroupBy(t => t.URL).ToList(), false);
 					WriteLog("End parse website async");
 				}
-				yandexMarketWebsitesQueueLabel.BeginInvoke(new Action(() => { yandexMarketWebsitesQueueLabel.Text = "Количество сайтов в очереди: 0";}));
+				yandexMarketWebsitesQueueLabel.BeginInvoke(new Action(() => { yandexMarketWebsitesQueueLabel.Text = "Количество сайтов в очереди: 0"; }));
 
 			});
 			try
@@ -1576,7 +1605,7 @@ namespace Wildberries_WScrapper.Forms
 					}
 					finally
 					{
-						_loaded = false;
+						Loaded = false;
 					}
 
 					try
@@ -1916,11 +1945,11 @@ namespace Wildberries_WScrapper.Forms
 			{
 				try
 				{
-					_loaded = false;
+					Loaded = false;
 					_geckoWebBrowser.Navigate(link);
-					while (!_loaded)
+					while (!Loaded)
 					{
-						await Task.Delay(50);
+						await Task.Delay(500);
 					}
 
 					var doc1 = _geckoWebBrowser.GetHtmlDocument();
@@ -1953,7 +1982,7 @@ namespace Wildberries_WScrapper.Forms
 					}
 					finally
 					{
-						_loaded = false;
+						Loaded = false;
 					}
 
 					try
@@ -1965,7 +1994,7 @@ namespace Wildberries_WScrapper.Forms
 					}
 					finally
 					{
-						_loaded = false;
+						Loaded = false;
 					}
 
 					datagridview.Rows.Add(++i, seller, ogrn, website, cmp.DayViews, cmp.WeekViews, cmp.MonthViews, rating, marks.ElementAtOrDefault(0), marks.ElementAtOrDefault(1), appearNode, cmp.RegisterDate, cmp.ListorgURL, link);
@@ -1976,7 +2005,7 @@ namespace Wildberries_WScrapper.Forms
 				}
 				finally
 				{
-					_loaded = false;
+					Loaded = false;
 				}
 			}
 		}
