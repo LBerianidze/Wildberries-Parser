@@ -231,7 +231,7 @@ namespace Wildberries_WScrapper.Helper
 			{
 				if (item.Name == tag)
 				{
-					if (item.InnerText.ToLower().Contains(attribute_possible_value))
+					if (item.InnerText.ToLower().Contains(attribute_possible_value.ToLower()))
 					{
 						return item;
 					}

@@ -60,7 +60,7 @@
 			this.loadBrands = new System.Windows.Forms.Button();
 			this.label4 = new System.Windows.Forms.Label();
 			this.tabPage5 = new System.Windows.Forms.TabPage();
-			this.tabControl2 = new System.Windows.Forms.TabControl();
+			this.yandexMarketTabControl = new System.Windows.Forms.TabControl();
 			this.yandexMarketActionsTabPage = new System.Windows.Forms.TabPage();
 			this.saveYandexMarketBrands = new System.Windows.Forms.Button();
 			this.saveYandexMarketCompanies = new System.Windows.Forms.Button();
@@ -82,7 +82,7 @@
 			this.tabPage4.SuspendLayout();
 			((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
 			this.tabPage5.SuspendLayout();
-			this.tabControl2.SuspendLayout();
+			this.yandexMarketTabControl.SuspendLayout();
 			this.yandexMarketActionsTabPage.SuspendLayout();
 			this.tabPage7.SuspendLayout();
 			this.SuspendLayout();
@@ -457,7 +457,7 @@
 			// 
 			this.tabPage5.Controls.Add(this.yandexMarketWebsitesQueueLabel);
 			this.tabPage5.Controls.Add(this.yandexMarketSyncDataLabel);
-			this.tabPage5.Controls.Add(this.tabControl2);
+			this.tabPage5.Controls.Add(this.yandexMarketTabControl);
 			this.tabPage5.Controls.Add(this.button1);
 			this.tabPage5.Controls.Add(this.editYandexMarketCategories);
 			this.tabPage5.Controls.Add(this.startYandexMarketParsing);
@@ -471,15 +471,15 @@
 			// 
 			// tabControl2
 			// 
-			this.tabControl2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+			this.yandexMarketTabControl.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-			this.tabControl2.Controls.Add(this.yandexMarketActionsTabPage);
-			this.tabControl2.Location = new System.Drawing.Point(3, 77);
-			this.tabControl2.Name = "tabControl2";
-			this.tabControl2.SelectedIndex = 0;
-			this.tabControl2.Size = new System.Drawing.Size(1050, 615);
-			this.tabControl2.TabIndex = 11;
+			this.yandexMarketTabControl.Controls.Add(this.yandexMarketActionsTabPage);
+			this.yandexMarketTabControl.Location = new System.Drawing.Point(3, 77);
+			this.yandexMarketTabControl.Name = "tabControl2";
+			this.yandexMarketTabControl.SelectedIndex = 0;
+			this.yandexMarketTabControl.Size = new System.Drawing.Size(1050, 615);
+			this.yandexMarketTabControl.TabIndex = 11;
 			// 
 			// yandexMarketActionsTabPage
 			// 
@@ -649,7 +649,7 @@
 			((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
 			this.tabPage5.ResumeLayout(false);
 			this.tabPage5.PerformLayout();
-			this.tabControl2.ResumeLayout(false);
+			this.yandexMarketTabControl.ResumeLayout(false);
 			this.yandexMarketActionsTabPage.ResumeLayout(false);
 			this.yandexMarketActionsTabPage.PerformLayout();
 			this.tabPage7.ResumeLayout(false);
@@ -689,7 +689,7 @@
 		private System.Windows.Forms.Button button1;
 		private System.Windows.Forms.Button editYandexMarketCategories;
 		private System.Windows.Forms.Button startYandexMarketParsing;
-		private System.Windows.Forms.TabControl tabControl2;
+		private System.Windows.Forms.TabControl yandexMarketTabControl;
 		private System.Windows.Forms.TabPage yandexMarketActionsTabPage;
 		private System.Windows.Forms.Button saveYandexMarketBrands;
 		private System.Windows.Forms.Button saveYandexMarketCompanies;
